@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, PostgreSQL, Tailwind CSS, AWS, Docker**
 
-- 👯 I’m looking to collaborate on **South-Canara-Tourism**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
 - 📫 How to reach me **rheadmello2004@gmail.com**
 
