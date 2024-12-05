@@ -11,6 +11,8 @@
 ### Contact
 
 [![contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dmellorhea)
+[![contact](https://skillicons.dev/icons?i=gmail)](mailto:rheadmello2004@gmail.com)
+
 
 ## Stats
 
