@@ -6,7 +6,7 @@
 
 #### Tools and Technologies:
 
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,googlecloud,drizzleorm,neon)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,googlecloud,orm drizzle)
 
 ### Contact
 
