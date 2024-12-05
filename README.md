@@ -2,7 +2,7 @@
 
 #### Languages:
 
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,c,reactjs,html,css)
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,c,html,css)
 
 #### Tools and Technologies:
 
@@ -15,7 +15,7 @@
 ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rheadmello&show_icons=true&locale=en&layout=compact" alt="rheadmello" /></p>
-
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheadmello&show_icons=true&locale=en" alt="rheadmello" /></p>
 
 
