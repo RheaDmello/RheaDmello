@@ -6,7 +6,7 @@
 
 #### Tools and Technologies:
 
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,postgresql,nextjs,googlecloud)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,googlecloud)
 
 ### Contact
 
@@ -15,7 +15,7 @@
 ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rheadmello&show_icons=true&locale=en&layout=compact" alt="rheadmello" /></p>
----
+##
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheadmello&show_icons=true&locale=en" alt="rheadmello" /></p>
 
 
