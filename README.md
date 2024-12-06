@@ -14,7 +14,7 @@
 </picture>
 
 # 👋 Hey there! I'm Rhea Dmello
-Passionate web developer and a data enthusiast exploring, building, and growing through exciting projects and continuous learning.
+A passionate Web developer and a Data enthusiast exploring, building, and growing through exciting projects and continuous learning.
 
 #### Languages:
 
