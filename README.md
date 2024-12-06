@@ -18,7 +18,7 @@ A passionate Web developer and a Data enthusiast exploring, building, and growin
 
 #### Languages:
 
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,c,html,css,r,react)
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,python,cpp,c,html,css,r,react)
 
 #### Tools and Technologies:
 
