@@ -18,11 +18,11 @@ A passionate Web developer and a Data enthusiast exploring, building, and growin
 
 #### Languages:
 
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,c,html,css,tailwindcss,r,react)
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,c,html,css,r,react)
 
 #### Tools and Technologies:
 
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,googlecloud,sklearn,tensorflow,vscode)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,tailwind,googlecloud,sklearn,tensorflow,vscode)
 
 ### Contact
 
