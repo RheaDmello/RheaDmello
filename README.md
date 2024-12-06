@@ -22,7 +22,7 @@ A passionate Web developer and a Data enthusiast exploring, building, and growin
 
 #### Tools and Technologies:
 
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,tailwind,googlecloud,sklearn,tensorflow,vscode)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,mongodb,expressjs,nodejs,bootstrap,mysql,postgresql,nextjs,tailwind,googlecloud,sklearn,tensorflow,vscode,jupyter)
 
 ### Contact
 
