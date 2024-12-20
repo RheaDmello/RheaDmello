@@ -30,7 +30,7 @@ A passionate Web developer and a Data enthusiast exploring, building, and growin
 [![contact](https://skillicons.dev/icons?i=gmail)](mailto:rheadmello2004@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=your-github-RheaDmello)
-## My github Stats
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rheadmello&show_icons=true&locale=en&layout=compact" alt="rheadmello" /></p>
 
